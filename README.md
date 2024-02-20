@@ -14,21 +14,21 @@ These are all in the same fashion as the original codebase, with the same functi
 
 User data, including IP addresses, PC specs, activity logs, and composition names, is being stored. The deobfuscated code in index.jsx reveals usage of a strong, likely tokenized, jsxbin compiler, concealing variables but leaving underlying code exposed.
 
-[User Data Storage](https://github.com/NevermindNilas/uwu2x-7.0/assets/128264457/2672be30-5435-4e31-b066-98dd168a457e)
-[Deobfuscated Code](https://github.com/NevermindNilas/uwu2x-7.0/assets/128264457/5d07cde9-6ba9-4c07-8400-bd434580f692)
+![ipstealing](https://github.com/NevermindNilas/uwu2x-7.0/assets/128264457/41e59c89-7b94-421f-928a-e9457cf9bfb5)
+![image (1)](https://github.com/NevermindNilas/uwu2x-7.0/assets/128264457/5342d426-69eb-4e25-aa02-cc8bdda6cbb2)
+
 
 ## Evidence of Intent
 
 Evidence indicates premeditated intent to appropriate the code.
 
-[Intent Evidence](https://github.com/NevermindNilas/uwu2x-7.0/assets/128264457/63cfdf1e-eaab-4e61-a6d0-35a5c771491e)
+![steal](https://github.com/NevermindNilas/uwu2x-7.0/assets/128264457/d5b1ae8b-99e8-428d-88b5-ca979fc7468a)
+
 
 ## Repository Activity
 
 Examination of the repository reveals substantial activity, suggesting adoption of a significant portion, if not the entirety, of the codebase through copying and pasting.
 
-[Repository Activity](https://github.com/NevermindNilas/uwu2x-7.0/assets/128264457/3390f4d4-56c5-44eb-a882-1b0f67403b5d)
+![animescripter](https://github.com/NevermindNilas/uwu2x-7.0/assets/128264457/06d0cdc8-1bef-4c50-bd91-a6243d0785bf)
 
 This disclosure is made to uphold ethical development and open-source collaboration principles. The shared source code aims to ensure transparency and foster a commitment to the integrity of open-source contributions.
-
-Thank you for your attention to this matter.
