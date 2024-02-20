@@ -1,6 +1,6 @@
 # uwu2x7.0 Source Code Disclosure
 
-In response to the admission of copying my GPL 3.0-licensed code and utilizing GPL 3.0 libraries without proper attribution, my request for credit and code release was denied. As a result, I have proactively open-sourced the uwu2x7.0 code.
+In response to the admission of copying my GPL 3.0-licensed code and utilizing GPL 3.0 libraries without proper attribution, my request for credit and code release was denied. As a result, I have proactively open-sourced the uwu2x7.0 code on the behalf of the 'original creator'
 
 Primary Components:
 - processor.py: Houses crucial code.
@@ -8,7 +8,7 @@ Primary Components:
 - reader.py: Contains logic for reading the input video.
 - writer.py: Contains logic for writing the input video.
 
-These are all in the same fashion as the original codebase, with the same functionality and structure.
+These are all in the same fashion as the original codebase of The Anime Scripter: https://github.com/NevermindNilas/TheAnimeScripter, with the same functionality and structure.
 
 ## Data Privacy Concerns
 
